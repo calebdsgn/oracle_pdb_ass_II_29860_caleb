@@ -7,7 +7,7 @@
 This assignment demonstrates the creation, management, and deletion of Oracle Pluggable Databases (PDB) in a Container Database (CDB) architecture.
 
 ## Oracle Environment
-- **Oracle Version:** [e.g., Oracle 19c]
+- **Oracle Version:** Oracle 23ai
 - **Operating System:** Windows 11 Pro
 
 ## Task 1: Create Permanent PDB
